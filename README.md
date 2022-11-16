@@ -82,9 +82,9 @@ git pull origin main
 git push -u origin main
 ```
 
-<img src="E:\File\ICKE\img\image-20220718091209924.png" alt="image-20220718091209924" style="zoom:67%;" />
+### 四、github上传大文件
 
-### 四、
+
 
 ### 五、常见错误：
 
